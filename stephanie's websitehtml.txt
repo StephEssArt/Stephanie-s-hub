@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stephanie's Website</title>
+</head>
+<body>
+    <h1 style='font-weight:bold;'>Welcome to Stephanie's Website</h1>
+    <p> Hi I'm Stephanie essel Arthur and you're welcome to my website.I'm an 18 year old girl who has a passion for computers and its related components. favorite thing to do is exploring new places and experiencing different cultures and fixing computer related appliance , and DJing. I enjoy meeting new people and learning from their stories. I believe I am a friendly and approachable person, always ready to lend a helping hand to others.</p>
+</body>
+</html>
